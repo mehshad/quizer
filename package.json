@@ -1,0 +1,14 @@
+{
+  "name": "shail",
+  "version": "1.0.0",
+  "description": "this is testing app for mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shail",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^0.18.1"
+  }
+}
